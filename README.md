@@ -4,6 +4,6 @@ I am currently learning scss, javascrpit, bootstrap ......  in general the whole
 I’m looking to collaborate on website projects, where I could use my skills and brush them up a bit<br>
 <br><br>
 - 📫 **How to reach me**<br>
-**DISCORD **
+**DISCORD**
 77905#1733
 
